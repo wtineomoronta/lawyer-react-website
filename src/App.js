@@ -6,7 +6,7 @@ import {BrowserRouter} from "react-router-dom";
 
 function App() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename={`${process.env.PUBLIC_URL}/`}>
             <div className="App">
                 <Main/>
             </div>

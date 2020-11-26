@@ -21,7 +21,7 @@ class Header extends Component {
                 <Navbar light expand="md">
                     <div className="container mt-3">
                         <NavbarToggler onClick={this.toggleNav}/>
-                        <NavbarBrand href="/">Lawyer Office</NavbarBrand>
+                        <NavbarBrand>Lawyer Office</NavbarBrand>
                         <Collapse isOpen={this.state.isNavOpen} navbar className="justify-content-end">
                             <Nav navbar>
                                 <NavItem>
