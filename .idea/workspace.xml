@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca2d4701-a63d-4a71-8855-53bfffceac14" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../exercise-1/confusion/src/redux/feedbackForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/share/faq.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercise-1/confusion/src/components/AboutComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercise-1/confusion/src/components/AboutComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercise-1/confusion/src/components/ContactComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercise-1/confusion/src/components/ContactComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercise-1/confusion/src/components/HomeComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercise-1/confusion/src/components/HomeComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercise-1/confusion/src/redux/ActionCreators.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercise-1/confusion/src/redux/ActionCreators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercise-1/confusion/src/redux/ActionTypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercise-1/confusion/src/redux/ActionTypes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercise-1/confusion/src/redux/configureStore.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercise-1/confusion/src/redux/configureStore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercise-1/confusion/src/redux/reducers/leaders.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercise-1/confusion/src/redux/reducers/leaders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AboutUsComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutUsComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ContactUsComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactUsComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FaqComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FaqComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FooterComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FooterComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HeaderComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HeaderComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HomeComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HomeComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MainComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ServicesComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ServicesComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UseCasesComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UseCasesComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/WhatOurClientAreSayingShare.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WhatOurClientAreSayingShare.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/clientOpinions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/clientOpinions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/teamMembers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/teamMembers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/useCases.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/useCases.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kOQD2aZtB8bKyCO3taFfmEj9vK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca2d4701-a63d-4a71-8855-53bfffceac14" name="Default Changelist" comment="" />
+      <created>1605569034861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605569034861</updated>
+      <workItem from="1605569037484" duration="935000" />
+      <workItem from="1605667263481" duration="4012000" />
+      <workItem from="1605705301628" duration="20429000" />
+      <workItem from="1605810267178" duration="11402000" />
+      <workItem from="1605873298327" duration="20469000" />
+      <workItem from="1606048886753" duration="1292000" />
+      <workItem from="1606087969532" duration="2345000" />
+      <workItem from="1606135509222" duration="1246000" />
+      <workItem from="1606222202959" duration="3855000" />
+      <workItem from="1606308163853" duration="27284000" />
+      <workItem from="1606394092739" duration="1563000" />
+      <workItem from="1606395672834" duration="492000" />
+      <workItem from="1606396392958" duration="8838000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="806" y="445" width="298" height="238" key="#ESLint" timestamp="1606396940348">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="806" y="445" width="298" height="238" key="#ESLint/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606396940348" />
+    <state x="632" y="355" width="645" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606252514788">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="632" y="355" width="645" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606252514788" />
+    <state x="768" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1606403732456">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="768" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606403732456" />
+    <state x="693" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605667775762">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="693" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1605667775762" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1606313622830">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606313622830" />
+  </component>
+</project>
