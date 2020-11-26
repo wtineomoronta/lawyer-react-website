@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lawyer-react-website/static/css/main.4629b4c4.chunk.css",
-    "main.js": "/lawyer-react-website/static/js/main.01b580af.chunk.js",
-    "main.js.map": "/lawyer-react-website/static/js/main.01b580af.chunk.js.map",
+    "main.js": "/lawyer-react-website/static/js/main.dc3c1e5b.chunk.js",
+    "main.js.map": "/lawyer-react-website/static/js/main.dc3c1e5b.chunk.js.map",
     "runtime-main.js": "/lawyer-react-website/static/js/runtime-main.9a2d6149.js",
     "runtime-main.js.map": "/lawyer-react-website/static/js/runtime-main.9a2d6149.js.map",
     "static/css/2.e5c5abbf.chunk.css": "/lawyer-react-website/static/css/2.e5c5abbf.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.e5c5abbf.chunk.css",
     "static/js/2.c08b6215.chunk.js",
     "static/css/main.4629b4c4.chunk.css",
-    "static/js/main.01b580af.chunk.js"
+    "static/js/main.dc3c1e5b.chunk.js"
   ]
 }
